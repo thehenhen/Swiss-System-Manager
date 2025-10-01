@@ -1,8 +1,8 @@
-const API_KEY = '7PSXdYA6bQss3btROdlTMAEQyQSBqPSyxYoa0UCl';
+const API_KEY = '';
 
-const TOURNAMENT_URL = 'tt4fun_DivA_20250824';
-const INPUT_SPREADSHEET_ID = '1uHcSdtAnLIuu2syecYPbwTWxUsHXmVRUBpWsSza-zFc';
-const OUTPUT_SPREADSHEET_ID = '1XfY2YC1fbN1o2cPdPje4pczBXfYWrnni-9C6Y5a5Yks';
+const TOURNAMENT_URL = '';
+const INPUT_SPREADSHEET_ID = '';
+const OUTPUT_SPREADSHEET_ID = '';
 const rounds = 8;
 const players = 24;
 
